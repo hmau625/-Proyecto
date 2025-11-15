@@ -47,7 +47,7 @@ class CategoriaController extends Controller
     {
         return view('categorias.edit', compact('categoria'));
     }
-
+    
     /**
      * Actualiza una categoría existente.
      */

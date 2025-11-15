@@ -12,7 +12,7 @@ class Producto extends Model
         'descripcion',
         'precio',
         'stock',
-        'categoria_id', // <- asegúrate que esté
+        'categoria_id',
     ];
 
     public function categoria()
