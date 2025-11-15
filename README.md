@@ -41,3 +41,9 @@ Para ejecutar el proyecto correctamente se requiere:
 - `routes/web.php` → Rutas de la aplicación  
 - `database/migrations` → Migraciones de base de datos  
 - `database/seeders` → Seeders para datos de prueba
+
+- ## 🎬 Demo del proyecto
+
+YouTube: [Ver Demo](https://youtu.be/eSyb2RhLLw8)
+
+
